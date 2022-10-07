@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Newsfinal</string>
+    <string name="top">top</string>
+    <string name="politics">politics</string>
+    <string name="business">business</string>
+    <string name="world">world</string>
+    <string name="us">us</string>
+    <string name="technology">technology</string>
+</resources>
